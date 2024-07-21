@@ -15,3 +15,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.con {
+  padding-right: 15% !important ;
+  padding-left: 15% !important;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&display=swap');
+
+.hero-token-top-gradient {
+  background-image: linear-gradient(360deg, #070b13, #070b13, #070b1300) !important;
+}
+
+.token-items-shadow-gradient {
+  background: radial-gradient(circle, #070b134a 10%, #070b133b, #070B13 36%);
+}
+
+.swiper-pagination-bullet {
+  width: 40px !important;
+  height: 10px !important;
+  border: 1px solid #9bb6c249 !important;
+  opacity: 0.9 !important;
+  border-radius: 50px !important;
+  outline: 1px solid #9bb6c22a !important;
+  background-image: linear-gradient(to right, #9bb6c269, #0F2340) !important;
+}
+
+swiper-pagination-bullet {
+  background: none !important;
+  opacity: 1 !important;
+  width: 33px !important;
+  height: 18px !important;
+  margin: 0 !important;
+  background: url(https://hero.io/assets/images/non-active-pagiantion.svg) no-repeat center center !important;
+  outline: none !important;
+  border: none !important;
+}
+
+
