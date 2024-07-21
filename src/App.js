@@ -268,7 +268,7 @@ function App() {
                   <p className="text-[28px] text-sky-400 md:text-[20px] max-w-[250px] md:max-w-fit md:w-fit mx-auto md:mx-0 font-bold text-hero-blue-500">
                     {item.title}
                   </p>
-                  <p className="max-w-[350px] md:max-w-[417px] text-sm md:text-base">
+                  <p className="max-w-[350px] md:max-w-[417px] pb-10 text-sm md:text-base">
                     {item.description}
                   </p>
                 </div>
